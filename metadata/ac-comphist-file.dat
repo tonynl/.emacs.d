@@ -1,0 +1,54 @@
+((("package-initialize" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("set_trace" .
+   [0 0 1 0 0 0 0 0 0])
+  ("pdb" .
+   [1 0 0])
+  ("load" .
+   [2 0 0 0])
+  ("auto-pair" .
+   [2 0 0 0 0 0 0 0 0])
+  ("column-marker" .
+   [1 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("ctable" .
+   [2 0 0 0 0 0])
+  ("dired-details" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("dired-details+" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("dired-efap" .
+   [2 0 0 0 0 0 0 0 0 0])
+  ("expand-region" .
+   [1 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("pabbrev" .
+   [2 0 0 0 0 0 0])
+  ("smart-operator" .
+   [0 0 0 0 0 0 0 2 0 0 0 0 0 0])
+  ("tabbar" .
+   [2 0 0 0 0 0])
+  ("tabbar-ruler" .
+   [2 0 0 0 0 0 0 0 0 0 0 0])
+  ("volatile-highlights" .
+   [0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("whole-line-or-region" .
+   [0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("yasnippet" .
+   [1 0 0 0 1 0 0 0 0])
+  ("auto-complete" .
+   [1 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("ecb" .
+   [2 0 0])
+  ("ess" .
+   [2 0 0])
+  ("ess-R-data-view" .
+   [0 0 0 0 0 2 0 0 0 0 0 0 0 0 0])
+  ("elpy" .
+   [1 0 0 0])
+  ("sys" .
+   [1 0 0])
+  ("iterative" .
+   [0 0 0 0 0 1 0 0 0])
+  ("api_version" .
+   [0 1 0 0 0 0 0 0 0 0 0])
+  ("member-functions" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])))
